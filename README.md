@@ -27,3 +27,37 @@ This repository is a curated collection of Python programs, concepts, and exerci
 
 ---
 
+## 🚀 Technologies Used
+
+- **Programming Language:** Python 🐍
+- **Version Control:** Git & GitHub 🌐
+- **IDE/Editor:** VSCode, PyCharm 💻
+
+---
+
+## 💡 What I Learned
+
+- Python core concepts
+- Object-Oriented Programming (OOP)
+- File Handling and Directories
+- Modular programming and clean code structure
+- Real-world software development practices
+
+---
+
+## 📈 Growth Mindset
+
+> *"Learning never exhausts the mind."* — Leonardo da Vinci
+
+This repository reflects my continuous growth as a developer. I strongly believe in learning by building and sharing my progress with the community.
+
+---
+
+## 🤝 Connect with Me
+
+- 🔗 [GitHub - Me-Mrinmoy](https://github.com/Me-Mrinmoy)
+- 🔗 [LinkedIn - Mrinmoy Samanta](https://www.linkedin.com/in/mrinmoysamanta)
+- 📧 Email: mrinmoysamantamrinmoysamanta@gmail.com
+
+---
+
