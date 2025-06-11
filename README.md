@@ -18,3 +18,12 @@ This repository is a curated collection of Python programs, concepts, and exerci
 
 ---
 
+## 📌 What You'll Find
+
+- ✅ **ClassAndObjects.py** — Object-Oriented Programming concepts: classes, objects, methods, and encapsulation.
+- ✅ **Directory.py** — Hands-on exercises working with file system directories using Python.
+- ✅ **Module1.py** — Initial foundational modules showcasing Python basics and problem-solving.
+- ✅ **Codec Technology Internship** — Dedicated files related to my internship experience and assignments.
+
+---
+
