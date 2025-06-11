@@ -7,11 +7,14 @@ This repository is a curated collection of Python programs, concepts, and exerci
 
 ## 📂 Repository Structure
 
-```bash
+```
 📦 Codec-Technology
  ┣ 📄 ClassAndObjects.py
  ┣ 📄 Codec Technology Internship
  ┣ 📄 Directory.py
  ┣ 📄 Module1.py
  ┗ 📄 README.md
+```
+
+---
 
